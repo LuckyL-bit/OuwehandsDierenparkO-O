@@ -1,0 +1,14 @@
+[
+  {
+    "pasnummer": "11111",
+    "geboortedatum": "2010-01-11",
+    "naam": "Luuk Brouwer",
+    "rol": "Bezoeker"
+  },
+  {
+    "pasnummer": "12345",
+    "geboortedatum": "2009-09-09",
+    "naam": "Vincent van Calcar",
+    "rol": "Medewerker"
+  }
+]
