@@ -3,7 +3,9 @@
     "naam": "Maleise Beren",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/Maleise-beer_300x300.jpg",
     "tijd": "12:00",
-    "statusKleur": "#C4D600"
+    "statusKleur": "#C4D600",
+    "totaal": "10",
+    "vol": "2"
   },
   {
     "naam": "Koala\u0027s",
