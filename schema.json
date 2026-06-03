@@ -2,50 +2,64 @@
   {
     "naam": "Maleise Beren",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/Maleise-beer_300x300.jpg",
-    "tijd": "12:15",
+    "tijd": "12:00",
     "totaal": "10",
-    "vol": "2"
+    "vol": "2",
+    "statusKleur": "#C4D600",
+    "StatusColor": {}
   },
   {
     "naam": "Koala\u0027s",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/koala-300x300.jpg",
     "tijd": "13:30",
     "totaal": "10",
-    "vol": "1"
+    "vol": "1",
+    "statusKleur": "#C4D600",
+    "StatusColor": {}
   },
   {
     "naam": "Orang-Oetans",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/Orang-oetan.jpg",
     "tijd": "15:30",
     "totaal": "10",
-    "vol": "10"
+    "vol": "10",
+    "statusKleur": "#C4D600",
+    "StatusColor": {}
   },
   {
     "naam": "Zebramangoesten",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/Zebramangoest.jpg",
     "tijd": "11:00",
     "totaal": "7",
-    "vol": "2"
+    "vol": "2",
+    "statusKleur": "#C4D600",
+    "StatusColor": {}
   },
   {
     "naam": "Nevelpanters",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/Nevelpanter_300x300.jpg",
     "tijd": "11:00",
     "totaal": "10",
-    "vol": "2"
+    "vol": "2",
+    "statusKleur": "#C4D600",
+    "StatusColor": {}
   },
   {
     "naam": "Reuzenpanda\u0027s",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/Reuzenpanda2.jpg",
     "tijd": "13:30",
     "totaal": "10",
-    "vol": "2"
+    "vol": "2",
+    "statusKleur": "#C4D600",
+    "StatusColor": {}
   },
   {
     "naam": "Jungle Jack",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/JJ_dagprogramma.png",
     "tijd": "14:30",
     "totaal": "10",
-    "vol": "2"
+    "vol": "2",
+    "statusKleur": "#C4D600",
+    "StatusColor": {}
   }
 ]
