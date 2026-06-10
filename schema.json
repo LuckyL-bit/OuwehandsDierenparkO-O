@@ -5,7 +5,8 @@
     "tijd": "12:15",
     "vol": "5",
     "totaal": "10",
-    "StatusKleurHex": "#C4D600"
+    "StatusKleurHex": "#C4D600",
+    "personen": []
   },
   {
     "naam": "Koala\u0027s",
@@ -13,15 +14,22 @@
     "tijd": "13:30",
     "vol": "5",
     "totaal": "10",
-    "StatusKleurHex": "#C4D600"
+    "StatusKleurHex": "#C4D600",
+    "personen": []
   },
   {
     "naam": "Orang-Oetans",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/Orang-oetan.jpg",
     "tijd": "15:30",
-    "vol": "9",
+    "vol": "10",
     "totaal": "10",
-    "StatusKleurHex": "#C4D600"
+    "StatusKleurHex": "#C4D600",
+    "personen": [
+      {
+        "Naam": "Luuk Brouwer",
+        "Aantal": 1
+      }
+    ]
   },
   {
     "naam": "Zebramangoesten",
@@ -29,7 +37,8 @@
     "tijd": "11:00",
     "vol": "5",
     "totaal": "10",
-    "StatusKleurHex": "#C4D600"
+    "StatusKleurHex": "#C4D600",
+    "personen": []
   },
   {
     "naam": "Nevelpanters",
@@ -37,7 +46,8 @@
     "tijd": "11:00",
     "vol": "4",
     "totaal": "10",
-    "StatusKleurHex": "#C4D600"
+    "StatusKleurHex": "#C4D600",
+    "personen": []
   },
   {
     "naam": "Reuzenpanda\u0027s",
@@ -45,7 +55,8 @@
     "tijd": "13:30",
     "vol": "8",
     "totaal": "10",
-    "StatusKleurHex": "#C4D600"
+    "StatusKleurHex": "#C4D600",
+    "personen": []
   },
   {
     "naam": "Jungle Jack",
@@ -53,6 +64,7 @@
     "tijd": "14:30",
     "vol": "6",
     "totaal": "10",
-    "StatusKleurHex": "#C4D600"
+    "StatusKleurHex": "#C4D600",
+    "personen": []
   }
 ]
