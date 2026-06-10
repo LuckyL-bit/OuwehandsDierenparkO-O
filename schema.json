@@ -3,7 +3,7 @@
     "naam": "Maleise Beren",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/Maleise-beer_300x300.jpg",
     "tijd": "12:15",
-    "vol": "5",
+    "vol": "0",
     "totaal": "10",
     "StatusKleurHex": "#C4D600",
     "personen": []
@@ -12,7 +12,7 @@
     "naam": "Koala\u0027s",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/koala-300x300.jpg",
     "tijd": "13:30",
-    "vol": "5",
+    "vol": "0",
     "totaal": "10",
     "StatusKleurHex": "#C4D600",
     "personen": []
@@ -21,15 +21,10 @@
     "naam": "Orang-Oetans",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/Orang-oetan.jpg",
     "tijd": "15:30",
-    "vol": "10",
+    "vol": "0",
     "totaal": "10",
     "StatusKleurHex": "#C4D600",
-    "personen": [
-      {
-        "Naam": "Luuk Brouwer",
-        "Aantal": 1
-      }
-    ]
+    "personen": []
   },
   {
     "naam": "Zebramangoesten",
@@ -44,7 +39,7 @@
     "naam": "Nevelpanters",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/Nevelpanter_300x300.jpg",
     "tijd": "11:00",
-    "vol": "4",
+    "vol": "0",
     "totaal": "10",
     "StatusKleurHex": "#C4D600",
     "personen": []
@@ -53,7 +48,7 @@
     "naam": "Reuzenpanda\u0027s",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/Reuzenpanda2.jpg",
     "tijd": "13:30",
-    "vol": "8",
+    "vol": "0",
     "totaal": "10",
     "StatusKleurHex": "#C4D600",
     "personen": []
@@ -62,7 +57,7 @@
     "naam": "Jungle Jack",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/JJ_dagprogramma.png",
     "tijd": "14:30",
-    "vol": "6",
+    "vol": "0",
     "totaal": "10",
     "StatusKleurHex": "#C4D600",
     "personen": []
