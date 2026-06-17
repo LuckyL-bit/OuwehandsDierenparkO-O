@@ -16,7 +16,7 @@
   {
     "naam": "Koala\u0027s",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/koala-300x300.jpg",
-    "tijd": "13:30",
+    "tijd": "16:00",
     "vol": "5",
     "totaal": "10",
     "StatusKleurHex": "#C4D600",
@@ -34,8 +34,8 @@
   {
     "naam": "Orang-Oetans",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/Orang-oetan.jpg",
-    "tijd": "14:30",
-    "vol": "10",
+    "tijd": "15:30",
+    "vol": "8",
     "totaal": "8",
     "StatusKleurHex": "#C4D600",
     "personen": [
