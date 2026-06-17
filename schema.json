@@ -21,13 +21,13 @@
     "naam": "Orang-Oetans",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/Orang-oetan.jpg",
     "tijd": "15:30",
-    "vol": "3",
+    "vol": "10",
     "totaal": "10",
     "StatusKleurHex": "#C4D600",
     "personen": [
       {
         "Naam": "Luuk Brouwer",
-        "Aantal": 3
+        "Aantal": 10
       }
     ]
   },
