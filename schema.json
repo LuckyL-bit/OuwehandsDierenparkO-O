@@ -6,7 +6,12 @@
     "vol": "2",
     "totaal": "10",
     "StatusKleurHex": "#C4D600",
-    "personen": []
+    "personen": [
+      {
+        "Naam": "Sam Wyers",
+        "Aantal": 10
+      }
+    ]
   },
   {
     "naam": "Koala\u0027s",
@@ -15,7 +20,16 @@
     "vol": "5",
     "totaal": "10",
     "StatusKleurHex": "#C4D600",
-    "personen": []
+    "personen": [
+      {
+        "Naam": "Vincent van Calcar",
+        "Aantal": 3
+      },
+      {
+        "Naam": "Joep van den Berg",
+        "Aantal": 3
+      }
+    ]
   },
   {
     "naam": "Orang-Oetans",
@@ -38,7 +52,12 @@
     "vol": "8",
     "totaal": "10",
     "StatusKleurHex": "#C4D600",
-    "personen": []
+    "personen": [
+      {
+        "Naam": "Sam Wyers",
+        "Aantal": 8
+      },
+    ]
   },
   {
     "naam": "Nevelpanters",
@@ -53,7 +72,7 @@
     "naam": "Reuzenpanda\u0027s",
     "afbeelding": "https://d2q9mofo5e5vez.cloudfront.net/uploads/programs/Reuzenpanda2.jpg",
     "tijd": "13:30",
-    "vol": "1",
+    "vol": "0",
     "totaal": "10",
     "StatusKleurHex": "#C4D600",
     "personen": []
